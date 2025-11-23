@@ -84,7 +84,7 @@ th {
 	background-color: #ebebeb;
 }
 
-.footer .container {
+.footer__menu {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -95,6 +95,6 @@ th {
 	font-weight: 600;
 }
 
-.footer .container p {
+.footer__menu p {
 	color: white;
 }
